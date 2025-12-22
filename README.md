@@ -1,4 +1,4 @@
-## Olá, eu sou o Yohanan Aguilar, estudante de Engenharia de Software! 👋
+## Olá, eu sou o Yohanan Aguilar, estudante de Engenharia de Software! 
 
 Meu foco é construir uma base sólida em **Lógica de Programação e Algoritmos**.
 Atualmente curso o ensino superior no **Centro Universitário Una**.
