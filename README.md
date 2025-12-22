@@ -46,8 +46,6 @@ Construindo meu caminho para **DevSecOps**.
 
 <br/>
 
-<br/>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yohananaguilar/yohananaguilar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/yohananaguilar/yohananaguilar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
