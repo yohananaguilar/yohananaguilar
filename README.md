@@ -1,4 +1,4 @@
-## Olá, eu sou o Yohanan Aguilar, estudante de Engenharia de Software! 
+## Olá, eu sou o Yohanan Aguilar, estudante de Engenharia de Software! 👋
 
 Focado em construir uma base sólida em **Lógica de Programação e Algoritmos**.
 Atualmente estudando no **Centro Universitário Una** e explorando múltiplas linguagens (C, Java, Python, C#) e Desenvolvimento Web.
@@ -44,6 +44,17 @@ Construindo meu caminho para **DevSecOps**.
   </table>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/yohananaguilar/yohananaguilar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📚 Repositório em Destaque</h3>
+  <a href="https://github.com/yohananaguilar/algoritmos-e-logica-de-programacao-udemy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yohananaguilar&repo=algoritmos-e-logica-de-programacao-udemy&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
