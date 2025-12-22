@@ -46,9 +46,8 @@ Construindo meu caminho para **DevSecOps**.
 
 <br/>
 
+<br/>
+
 <div align="center">
-  <h3>📚 Repositório em Destaque</h3>
-  <a href="https://github.com/yohananaguilar/algoritmos-e-logica-de-programacao-udemy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yohananaguilar&repo=algoritmos-e-logica-de-programacao-udemy&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://raw.githubusercontent.com/yohananaguilar/yohananaguilar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
