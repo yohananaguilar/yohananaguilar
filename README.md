@@ -1,10 +1,12 @@
-## Olá, eu sou o Yohanan Aguilar, estudante de Engenharia de Software! 
+## Olá, eu sou o Yohanan Aguilar, estudante de Engenharia de Software! 👋
 
 Meu foco é construir uma base sólida em **Lógica de Programação e Algoritmos**.
-Atualmente curso o ensino superior no **Centro Universitário Una**, explorando linguagens robustas (C, Java, Python, C#) e Desenvolvimento Web.
+Atualmente curso o ensino superior no **Centro Universitário Una**.
 
-🚀 **Meu Objetivo:**
-Dominar o desenvolvimento de software (Dev) e, futuramente, a segurança (Sec).
+Estou em uma jornada de estudos. As tecnologias abaixo representam minha trilha de aprendizado atual, onde busco compreender a **sintaxe e os fundamentos**, sem pretensão de domínio avançado por enquanto.
+
+🚀 **Meu Objetivo Futuro:**
+Dominar o desenvolvimento de software (Dev) e a segurança (Sec).
 Trilhando meu caminho rumo a **DevSecOps**.
 
 <div align="center">
