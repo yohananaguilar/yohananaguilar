@@ -1,7 +1,11 @@
-## Olá, eu sou o Yohanan Aguilar, estudante de Engenharia de Software!
+## Olá, eu sou o Yohanan Aguilar, estudante de Engenharia de Software! 👋
 
 Focado em construir uma base sólida em **Lógica de Programação e Algoritmos**.
 Atualmente estudando no **Centro Universitário Una** e explorando múltiplas linguagens (C, Java, Python, C#) e Desenvolvimento Web.
+
+🚀 **Meu Objetivo:**
+Dominar a construção de software (Dev) para futuramente saber proteger (Sec).
+Construindo meu caminho para **DevSecOps**.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yohanan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
@@ -20,7 +24,7 @@ Atualmente estudando no **Centro Universitário Una** e explorando múltiplas li
 <div> 
   <a href="https://www.linkedin.com/in/yohanan-aguilar-772350277" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/y0shyy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/yohananaguilar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
 <br/>
@@ -28,13 +32,14 @@ Atualmente estudando no **Centro Universitário Una** e explorando múltiplas li
 <div align="center">
   <a href="https://github.com/yohananaguilar">
     <img height="165px" src="https://github-readme-stats.vercel.app/api?username=yohananaguilar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohananaguilar&theme=tokyonight&hide_border=true&layout=default&langs_count=6" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohananaguilar&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
   </a>
 </div>
 
 <br/>
 
 <div align="left">
+  <h3>📚 Repositório em Destaque</h3>
   <a href="https://github.com/yohananaguilar/algoritmos-e-logica-de-programacao-udemy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yohananaguilar&repo=algoritmos-e-logica-de-programacao-udemy&theme=tokyonight&hide_border=true" />
   </a>
