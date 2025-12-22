@@ -30,17 +30,14 @@ Construindo meu caminho para **DevSecOps**.
 <br/>
 
 <div align="center">
-  <a href="https://github.com/yohananaguilar">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api?username=yohananaguilar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohananaguilar&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
-  </a>
-</div>
-
-<br/>
-
-<div align="left">
-  <h3>📚 Repositório em Destaque</h3>
-  <a href="https://github.com/yohananaguilar/algoritmos-e-logica-de-programacao-udemy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yohananaguilar&repo=algoritmos-e-logica-de-programacao-udemy&theme=tokyonight&hide_border=true" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yohananaguilar&show_icons=true&theme=tokyonight&hide_border=true" width="420" height="170" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohananaguilar&layout=compact&theme=tokyonight&hide_border=true" width="420" height="175"/>
+      </td>
+    </tr>
+  </table>
 </div>
