@@ -27,8 +27,8 @@ Atualmente estudando no **Centro Universitário Una** e explorando múltiplas li
 
 <div align="center">
   <a href="https://github.com/yohananaguilar">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yohananaguilar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohananaguilar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=yohananaguilar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohananaguilar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
   </a>
 </div>
 
