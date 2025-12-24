@@ -1,8 +1,9 @@
-## Olá, eu sou o Yohanan Aguilar, estudante de Engenharia de Software! 
+## Olá, eu sou o Yohanan Aguilar, estudante de Engenharia de Software! 👋
 
 Meu foco é construir uma base sólida em **Lógica de Programação e Algoritmos**.
 Atualmente curso o ensino superior no **Centro Universitário Una**.
 
+🎓 **Status de Aprendizado:**
 Estou em uma jornada de estudos. As tecnologias abaixo representam minha trilha de aprendizado atual, onde busco compreender a **sintaxe e os fundamentos**, sem pretensão de domínio avançado por enquanto.
 
 🚀 **Meu Objetivo Futuro:**
@@ -37,14 +38,15 @@ Trilhando meu caminho rumo a **DevSecOps**.
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yohananaguilar&show_icons=true&theme=tokyonight&hide_border=true" width="400" height="170" alt="Estatísticas do GitHub" />
+        <img src="https://github-readme-stats.vercel.app/api?username=yohananaguilar&show_icons=true&theme=tokyonight&hide_border=true" width="400" height="170" alt="Estatísticas do GitHub de Yohanan" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohananaguilar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" height="170" alt="Linguagens mais usadas"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohananaguilar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" height="170" alt="Linguagens mais usadas por Yohanan"/>
       </td>
     </tr>
   </table>
 </div>
+
 <br/>
 
 <div align="center">
