@@ -37,10 +37,10 @@ Trilhando meu caminho rumo a **DevSecOps**.
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yohananaguilar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" height="170" alt="Estatísticas do GitHub de Yohanan" />
+        <img src="https://github-readme-stats.vercel.app/api?username=yohananaguilar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=0&v=fix1" width="400" height="170" alt="Estatísticas do GitHub de Yohanan" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohananaguilar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" height="170" alt="Linguagens mais usadas por Yohanan"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohananaguilar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=0&v=fix1" width="400" height="170" alt="Linguagens mais usadas por Yohanan"/>
       </td>
     </tr>
   </table>
