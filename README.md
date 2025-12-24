@@ -37,7 +37,7 @@ Trilhando meu caminho rumo a **DevSecOps**.
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohananaguilar&theme=tokyonight&hide_border=true" width="400" height="170" alt="Estatísticas de Ofensiva (Streak)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=yohananaguilar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true" width="400" height="170" alt="Estatísticas detalhadas do GitHub" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohananaguilar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" height="170" alt="Linguagens mais usadas"/>
