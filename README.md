@@ -57,6 +57,6 @@ Trilhando meu caminho rumo a **DevSecOps**.
 <div align="center">
   <h3>📚 Repositório em Destaque</h3>
   <a href="https://github.com/yohananaguilar/algoritmos-e-logica-de-programacao-udemy">
-    <img width="400" src="https://github-readme-repo-card.vercel.app/pin?user=yohananaguilar&repo=algoritmos-e-logica-de-programacao-udemy&theme=tokyonight" alt="Card do repositório de Algoritmos" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=yohananaguilar&repo=algoritmos-e-logica-de-programacao-udemy&theme=tokyonight" alt="Card do repositório de Algoritmos"/>
   </a>
 </div>
