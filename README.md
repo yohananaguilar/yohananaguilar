@@ -48,8 +48,10 @@ Trilhando meu caminho rumo a **DevSecOps**.
 
 <br/>
 
+### 🐍 Atividade de Contribuições (3D)
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yohananaguilar/yohananaguilar/output/github-contribution-grid-snake-dark.svg" alt="Animação Snake baseada nos commits" />
+  <img src="https://raw.githubusercontent.com/yohananaguilar/yohananaguilar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
 <br/>
