@@ -6,7 +6,12 @@
 
 <br/>
 
-> 🚀 **Sobre mim:** Minha jornada na tecnologia é movida pela curiosidade de entender como sistemas complexos funcionam. Atualmente, estou mergulhado nos **fundamentos da computação** (C, C++, Java), construindo a base sólida necessária para futuramente proteger infraestruturas críticas como **DevSecOps Engineer**.
+### 🚀 Sobre mim
+
+> 🎓 Cursando **Engenharia de Software** (4º Período - Una)
+> 💻 Foco atual: **Fundamentos da Computação** (C, C++, Java, Estrutura de Dados)
+> 🎯 Objetivo: Especialização em **DevSecOps** e Cibersegurança
+> 🧠 *"Entender como funciona por baixo do capô é o meu diferencial."*
 
 ---
 
