@@ -48,14 +48,27 @@
 
 ---
 
-### 📊 Frequência de Código
+### 📊 Estatísticas
 
-<div align="left">
-  <img
-    src="https://streak-stats.demolab.com?user=yohananaguilar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    height="160"
-    alt="Streak Stats"
-  />
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          src="https://streak-stats.demolab.com?user=yohananaguilar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+          height="180"
+          alt="Streak Stats"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohananaguilar&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+          height="180"
+          alt="Top Langs"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -66,3 +79,7 @@
   <img src="https://raw.githubusercontent.com/yohananaguilar/yohananaguilar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=yohananaguilar&style=flat-square&label=Profile+Views&color=7e22ce" alt="Profile Views"/>
+</div>
