@@ -1,4 +1,4 @@
-## Olá, eu sou o Yohanan Aguilar 👋
+## Olá, eu sou o Yohanan Aguilar
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+de+Software;Explorando+L%C3%B3gica+%26+Algoritmos;Rumo+ao+DevSecOps" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 <br/>
 
-> 🚀 **Sobre mim:** Minha jornada na tecnologia é movida pela curiosidade de entender como sistemas complexos funcionam. Atualmente, estou mergulhado nos **fundamentos da computação** (C, C++, Java), construindo a base sólida necessária para futuramente proteger infraestruturas críticas como **DevSecOps Engineer**.
+🚀 **Sobre mim:** Minha jornada na tecnologia é movida pela curiosidade de entender como sistemas complexos funcionam. Atualmente, estou mergulhado nos **fundamentos da computação** (C, C++, Java), construindo a base sólida necessária para futuramente proteger infraestruturas críticas como **DevSecOps Engineer**.
 
 ---
 
