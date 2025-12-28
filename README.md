@@ -10,7 +10,7 @@ Estou em uma jornada de estudos focada em compreender a **sintaxe e os fundament
 
 ### 🧠 Minha Trilha de Aprendizado
 
-**Linguagens de Programação (Foco em Lógica & Backend)**
+**Fundamentos & Backend (Lógica)**
 <div align="left">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
@@ -46,7 +46,7 @@ Estou em uma jornada de estudos focada em compreender a **sintaxe e os fundament
 
 ---
 
-### 📊 Frequência e Constância
+### 📊 Frequência
 
 <div align="left">
   <img
@@ -58,22 +58,8 @@ Estou em uma jornada de estudos focada em compreender a **sintaxe e os fundament
 
 ---
 
-### 🐍 Histórico de Contribuições (3D)
+### 🐍 Histórico de Contribuições
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yohananaguilar/yohananaguilar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</div>
-
----
-
-### ⭐ Repositório em Destaque
-
-<div align="center">
-  <a href="https://github.com/yohananaguilar/algoritmos-e-logica-de-programacao-udemy">
-    <img
-      src="https://socialify.git.ci/yohananaguilar/algoritmos-e-logica-de-programacao-udemy/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark"
-      width="600"
-      alt="Card Repositório Algoritmos"
-    />
-  </a>
 </div>
