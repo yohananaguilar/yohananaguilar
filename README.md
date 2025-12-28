@@ -1,16 +1,18 @@
-## Olá, eu sou o Yohanan Aguilar 👋  
-🎓 Estudante de **Engenharia de Software**
+## Olá, eu sou o Yohanan Aguilar 👋
 
-Meu foco é construir uma base sólida em **Lógica de Programação e Algoritmos**.  
-Atualmente curso o ensino superior no **Centro Universitário Una**.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+de+Software;Explorando+L%C3%B3gica+%26+Algoritmos;Rumo+ao+DevSecOps" alt="Typing SVG" />
+</div>
 
-Estou em uma jornada de estudos focada em compreender a **sintaxe e os fundamentos** da computação, pavimentando meu caminho para me tornar um especialista em **DevSecOps**.
+<br/>
+
+> 🚀 **Sobre mim:** Minha jornada na tecnologia é movida pela curiosidade de entender como sistemas complexos funcionam. Atualmente, estou mergulhado nos **fundamentos da computação** (C, C++, Java), construindo a base sólida necessária para futuramente proteger infraestruturas críticas como **DevSecOps Engineer**.
 
 ---
 
-### 🧠 Minha Trilha de Aprendizado
+### 🧠 Minha Caixa de Ferramentas
 
-**Fundamentos & Backend (Lógica)**
+**Lógica & Backend (A Base Sólida)**
 <div align="left">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
@@ -21,7 +23,7 @@ Estou em uma jornada de estudos focada em compreender a **sintaxe e os fundament
 
 <br/>
 
-**Web & Ferramentas**
+**Web & Versionamento**
 <div align="left">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
@@ -40,25 +42,25 @@ Estou em uma jornada de estudos focada em compreender a **sintaxe e os fundament
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/yohananaguilar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
 ---
 
-### 📊 Frequência
+### 📊 Frequência de Código
 
 <div align="left">
   <img
     src="https://streak-stats.demolab.com?user=yohananaguilar&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    height="180"
+    height="160"
     alt="Streak Stats"
   />
 </div>
 
 ---
 
-### 🐍 Histórico de Contribuições
+### 🧊 Histórico de Contribuições (3D)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yohananaguilar/yohananaguilar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
