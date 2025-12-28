@@ -37,10 +37,10 @@ Trilhando meu caminho rumo a **DevSecOps**.
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yohananaguilar&theme=tokyonight&hide_border=true" width="400" height="170" alt="Sequência de dias programando (Streak)" />
+        <img src="https://streak-stats.demolab.com?user=yohananaguilar&theme=tokyonight&hide_border=true" width="400" alt="Sequência de dias programando (Streak)" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohananaguilar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" height="170" alt="Linguagens mais usadas"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohananaguilar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400" alt="Linguagens mais usadas"/>
       </td>
     </tr>
   </table>
