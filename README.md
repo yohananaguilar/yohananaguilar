@@ -17,7 +17,7 @@
 
 ### 🧠 Minha Caixa de Ferramentas
 
-**Lógica & Backend (A Base Sólida)**
+**Lógica & Backend**
 <div align="left">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
