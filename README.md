@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 
-> 🎓 Cursando **Engenharia de Software** (4º Período - Una)
+> 🎓 Cursando **Engenharia de Software** (5º Período - Una)
 > 💻 Foco atual: **Fundamentos da Computação** (C, C++, Java, Estrutura de Dados)
 > 🎯 Objetivo: Especialização em **DevSecOps** e Cibersegurança
 > 🧠 *"Entender como funciona por baixo do capô é o meu diferencial."*
